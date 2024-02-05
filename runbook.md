@@ -7,7 +7,7 @@ docker compose up
 Then your local changes to the code will be reflected. You will have to re-run composer install -
 
 ```sh
-docker debug snipe-it-snipeit
+docker debug snipeit
 ```
 
 Re-run composer
